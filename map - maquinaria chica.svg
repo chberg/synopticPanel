@@ -3537,14 +3537,14 @@ AAAAAKSJgBUAAAAAAAAAAAAA0kTACgAAAAAAAAAAAABpImAFAAAAAAAAAAAAgDQRsAIAAAAAAAAA
 AABAmghYAQAAAAAAAAAAACBNBKwAAAAAAAAAAAAAkCYCVgAAAAAAAAAAAABIEwErAAAAAAAAAAAA
 AKSJgBUAAAAAAAAAAAAA0kTACgAAAAAAAAAAAABp+v8BQv2dNIXke0YAAAAASUVORK5CYII=" transform="matrix(0.48 0 0 0.48 0.2778 0)">
 </image>
-<polygon id="Final_Folder_Unit_1_" class="st0 area" points="728.3,610.6 599.7,601.3 601.6,362.8 709.7,360.9 758.1,362.8 791.6,554.7 
+<polygon id="Final_Folder_Unit" class="st0 area" points="728.3,610.6 599.7,601.3 601.6,362.8 709.7,360.9 758.1,362.8 791.6,554.7 
 	778.6,593.9 " title=""></polygon>
-<polygon id="Jaw_System_1_" class="st1 area" points="370.5,366.5 601.6,362.8 599.7,601.3 370.5,580.8 " title=""></polygon>
+<polygon id="Jaw_System" class="st1 area" points="370.5,366.5 601.6,362.8 599.7,601.3 370.5,580.8 " title=""></polygon>
 <polygon id="Infeed_Unit_1_" class="st2 area" points="230.7,368.4 232.6,569.6 370.5,582.7 370.5,366.5 " title=""></polygon>
-<polygon id="Service_Unit_1_" class="st3 area" points="601.6,332.9 668.7,331.1 789.8,342.3 769.3,219.3 648.2,183.9 601.6,189.5 " title=""></polygon>
-<polygon id="Sterile_System_1_" class="st4 area" points="381.7,342.3 381.7,113 430.1,107 441.5,56.1 461,56.1 461,65.8 471.9,71.4 
+<polygon id="Service_Unit" class="st3 area" points="601.6,332.9 668.7,331.1 789.8,342.3 769.3,219.3 648.2,183.9 601.6,189.5 " title=""></polygon>
+<polygon id="Service_Unit" class="st4 area" points="381.7,342.3 381.7,113 430.1,107 441.5,56.1 461,56.1 461,65.8 471.9,71.4 
 	476.7,77.5 502.1,55.5 501.1,51.2 508.4,34.2 532.4,23 559.3,38.7 556.8,105.6 582.9,113 599.7,111.2 599.7,98.1 607.2,98.1 
 	638.8,120.5 638.8,92.5 644.4,92.5 648.4,93.8 648.4,127.3 642.6,141 644.4,183.9 599.7,189.5 601.6,332.9 " title=""></polygon>
-<polygon id="Electrical_System_1_" class="st5 area" points="251.2,347.9 251.2,150.3 292.3,143.7 292.3,121.5 347.7,107.2 370.5,114.9 
+<polygon id="Electrical_System" class="st5 area active" points="251.2,347.9 251.2,150.3 292.3,143.7 292.3,121.5 347.7,107.2 370.5,114.9 
 	370.5,131.7 381.7,131.7 381.7,342.3 " title=""></polygon>
 </svg>
