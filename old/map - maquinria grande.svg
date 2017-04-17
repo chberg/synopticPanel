@@ -3769,17 +3769,17 @@ AAAAJBJYAQAAAAAAABIJrAAAAAAAAACJBFYAAAAAAACARAIrAAAAAAAAQCKBFQAAAAAAACCRwAoA
 AAAAAACQSGAFAAAAAAAASCSwAgAAAAAAACQSWAEAAAAAAAASCawAAAAAAAAAiQRWAAAAAAAAgEQC
 KwAAAAAAAECi/wdpCKzWY98yfAAAAABJRU5ErkJggg==" transform="matrix(0.48 0 0 0.48 -0.3102 0)">
 </image>
-<polygon id="Jaw_System" class="st0 area" points="435.4,338.4 628.1,333.9 628.1,548.9 435.4,531.4 " title="Jaw System"></polygon>
-<polygon id="Final_Folder_Unit" class="st1 area" points="804.8,504.2 773,335.9 727.8,333.9 628.1,333.9 628.1,548.9 747.3,562 788.7,540.2 
-	788.7,540.2 788.7,540.2 " title="Final Folder Unit"></polygon>
-<polygon id="DIMC_Unit" class="st2 area" points="290.9,340.3 435.4,338.4 435.4,531.4 290.9,516.4 " title="DIMC Unit"></polygon>
-<polygon id="Infeed_Unit" class="st3 area" points="186.5,342.7 290.9,340.3 290.9,516.4 188.1,505.5 " title="Infeed Unit"></polygon>
-<polygon id="Service_Unit" class="st4 area" points="637.3,181.5 636.5,312.6 699,309.4 796.8,317.3 779,205.6 675.7,177.8 " title="Service Unit"></polygon>
-<path id="Sterile_System" class="st5 area" d="M704.2,130.6l0.3-28h-0.9v-7.9h-4.7l-0.3,7.9H697c0,0,0,13.4,0,21s-5.2,7.2-5.2,7.2v-7.2
+<polygon id="_x31_" class="st0 area" points="435.4,338.4 628.1,333.9 628.1,548.9 435.4,531.4 " title=""></polygon>
+<polygon id="_x32_" class="st1 area" points="804.8,504.2 773,335.9 727.8,333.9 628.1,333.9 628.1,548.9 747.3,562 788.7,540.2 
+	788.7,540.2 788.7,540.2 " title=""></polygon>
+<polygon id="_x33_" class="st2 area" points="290.9,340.3 435.4,338.4 435.4,531.4 290.9,516.4 " title=""></polygon>
+<polygon id="_x34_" class="st3 area" points="186.5,342.7 290.9,340.3 290.9,516.4 188.1,505.5 " title=""></polygon>
+<polygon id="_x35_" class="st4 area" points="637.3,181.5 636.5,312.6 699,309.4 796.8,317.3 779,205.6 675.7,177.8 " title=""></polygon>
+<path id="_x36_" class="st5 area" d="M704.2,130.6l0.3-28h-0.9v-7.9h-4.7l-0.3,7.9H697c0,0,0,13.4,0,21s-5.2,7.2-5.2,7.2v-7.2
 	c0,0,1.2-5-3-5c-4.2,0-3,5-3,5v8.1l-2.4-0.1v-10c0,0-1.1-3-3-3c-2,0-3,3-3,3v11l-3,0.2v-25.3c0,0,1.2-3-3-3c-4.2,0-3.4,3-3.4,3v12.1
 	l-14.2,0.3v4.5l-14.3-4.8l-0.4,44.3l-6.9-6.9l-2.6-1.5v-51.4l15.2-1.5v-6.9l-29.8-11.5v19.8h-3.4V77l-22.6-8l-28.2,6.2v3h-15.2v-1.5
 	l-15.4-3.2l-35.9,5.4v9.9l-38,4.3l-2.4,224.4l182.7-4.8l0.8-131l40.9-2.9l25.4,6.4l0-0.3l-1.5-0.4l-0.1-16.1c0,0,0.8-0.5,1.8-1
-	l0-3.4c-0.1,0-0.2,0-0.2,0c-8-2-13.6,3.3-13.6,3.3l-1.2-1.2V139C699.7,138.7,703.1,134.1,704.2,130.6z" title="Sterile System"></path>
-<polygon id="Electrical_Cabinet" class="st6 area active" points="257.2,156.4 257.2,323.7 453.8,317.3 455.8,132.9 450.3,131.1 423.2,134.7 432,110.4 
-	410.4,103.6 360.9,111.7 357.6,123.1 337.8,115 289.9,127.7 289.9,152 " title="Electrical Cabinet"></polygon>
+	l0-3.4c-0.1,0-0.2,0-0.2,0c-8-2-13.6,3.3-13.6,3.3l-1.2-1.2V139C699.7,138.7,703.1,134.1,704.2,130.6z" title=""></path>
+<polygon id="_x37_" class="st6 area" points="257.2,156.4 257.2,323.7 453.8,317.3 455.8,132.9 450.3,131.1 423.2,134.7 432,110.4 
+	410.4,103.6 360.9,111.7 357.6,123.1 337.8,115 289.9,127.7 289.9,152 " title=""></polygon>
 </svg>
